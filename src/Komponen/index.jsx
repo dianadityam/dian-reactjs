@@ -8,7 +8,7 @@ export default class Komponen extends React.Component {
         return (
             <div>
                 <ClassComponent name="Dian Aditya" />
-                <FunctionalComponent />
+                <FunctionalComponent pekerjaan="Belajar"/>
             </div>
         )
     }
