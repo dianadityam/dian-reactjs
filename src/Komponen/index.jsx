@@ -6,7 +6,7 @@ export default class Komponen extends React.Component {
 
     render () {
         return (
-            <div>
+            <div id="tugasKomponen">
                 <ClassComponent name="Dian Aditya" />
                 <FunctionalComponent pekerjaan="Belajar"/>
             </div>
